@@ -1,0 +1,3 @@
+/Users/yjung18/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/gitdemo.dir
+/Users/yjung18/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yjung18/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
